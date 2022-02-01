@@ -1,0 +1,1 @@
+By convention, we put all our components in this folder
